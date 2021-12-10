@@ -27,7 +27,7 @@ body {
 }
 
 .container.show-nav {
-  transform: rotate(-25deg);
+  transform: rotate(-30deg);
 }
 
 .circle-container {
