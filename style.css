@@ -22,8 +22,12 @@ body {
   padding: 50px;
 }
 
+.smallVp {
+  transform: rotate(-40deg);
+}
+
 .container.show-nav {
-  transform: rotate(-20deg);
+  transform: rotate(-25deg);
 }
 
 .circle-container {
@@ -162,6 +166,3 @@ nav ul li + li + li + li {
   line-height: 20px;
   font-size: 20px;
 }
-
-
-
